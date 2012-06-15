@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+   assembly="DYDP.Domain"
+   namespace="DYDP.Domain.Entities">
+
+  <class name ="userinfo">
+    <id name="userid" column ="userid">
+      <generator class ="native"/>
+    </id>
+    <property name ="password"/>
+    <property name ="username"/>
+  </class>
+</hibernate-mapping>

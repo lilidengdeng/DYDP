@@ -1,0 +1,14 @@
+C:\Users\Younger\Documents\Visual Studio 2010\Projects\DYDP\DYDP.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Younger\Documents\Visual Studio 2010\Projects\DYDP\DYDP.Data\bin\Debug\DYDP.Data.dll
+C:\Users\Younger\Documents\Visual Studio 2010\Projects\DYDP\DYDP.Data\bin\Debug\DYDP.Data.pdb
+C:\Users\Younger\Documents\Visual Studio 2010\Projects\DYDP\DYDP.Data\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Younger\Documents\Visual Studio 2010\Projects\DYDP\DYDP.Data\bin\Debug\Castle.Core.dll
+C:\Users\Younger\Documents\Visual Studio 2010\Projects\DYDP\DYDP.Data\bin\Debug\castle.dynamicproxy2.dll
+C:\Users\Younger\Documents\Visual Studio 2010\Projects\DYDP\DYDP.Data\bin\Debug\DYDP.Domain.dll
+C:\Users\Younger\Documents\Visual Studio 2010\Projects\DYDP\DYDP.Data\bin\Debug\Iesi.Collections.dll
+C:\Users\Younger\Documents\Visual Studio 2010\Projects\DYDP\DYDP.Data\bin\Debug\log4net.dll
+C:\Users\Younger\Documents\Visual Studio 2010\Projects\DYDP\DYDP.Data\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Users\Younger\Documents\Visual Studio 2010\Projects\DYDP\DYDP.Data\bin\Debug\NHibernate.dll
+C:\Users\Younger\Documents\Visual Studio 2010\Projects\DYDP\DYDP.Data\bin\Debug\DYDP.Domain.pdb
+C:\Users\Younger\Documents\Visual Studio 2010\Projects\DYDP\DYDP.Data\obj\Debug\DYDP.Data.dll
+C:\Users\Younger\Documents\Visual Studio 2010\Projects\DYDP\DYDP.Data\obj\Debug\DYDP.Data.pdb

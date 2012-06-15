@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+   assembly="DYDP.Domain"
+   namespace="DYDP.Domain.Entities">
+
+  <class name ="seatinfo">
+    <id name="totalid" column ="totalid">
+    <generator class ="native"/>
+    </id>
+    <property name="seatid" column="seatid"/>
+    <property name="hallid" column="hallid"/>
+    <property name ="available"/>
+  </class>
+</hibernate-mapping>

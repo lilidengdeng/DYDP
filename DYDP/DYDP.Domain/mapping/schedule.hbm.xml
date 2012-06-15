@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+   assembly="DYDP.Domain"
+   namespace="DYDP.Domain.Entities">
+
+  <class name ="schedule">
+    <id name="scheduleid" column ="scheduleid">
+      <generator class ="native"/>
+    </id>
+    <property name="date" column="date"/>
+    <property name="moviename" column="moviename"/>
+    <property name="hallid" column="hallid"/>
+    <property name="starttime" column="starttime"/>
+  </class>
+</hibernate-mapping> 

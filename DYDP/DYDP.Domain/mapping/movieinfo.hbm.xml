@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+   assembly="DYDP.Domain"
+   namespace="DYDP.Domain.Entities">
+
+  <class name ="movieinfo">
+    <id name="moviename" column ="moviename">
+      <generator class ="native"/>
+    </id>
+    <property name ="director"/>
+    <property name ="movietime"/>
+    <property name ="actor"/>
+    <property name ="description"/>
+    <property name ="poster"/>
+    <property name ="price"/>
+  </class>
+</hibernate-mapping>
